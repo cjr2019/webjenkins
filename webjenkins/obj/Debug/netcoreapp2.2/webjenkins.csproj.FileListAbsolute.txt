@@ -10,7 +10,6 @@ E:\学习资料\JenkinsTest\webjenkins\webjenkins\bin\Debug\netcoreapp2.2\webjen
 E:\学习资料\JenkinsTest\webjenkins\webjenkins\bin\Debug\netcoreapp2.2\webjenkins.pdb
 E:\学习资料\JenkinsTest\webjenkins\webjenkins\bin\Debug\netcoreapp2.2\webjenkins.Views.dll
 E:\学习资料\JenkinsTest\webjenkins\webjenkins\bin\Debug\netcoreapp2.2\webjenkins.Views.pdb
-E:\学习资料\JenkinsTest\webjenkins\webjenkins\obj\Debug\netcoreapp2.2\webjenkins.csprojAssemblyReference.cache
 E:\学习资料\JenkinsTest\webjenkins\webjenkins\obj\Debug\netcoreapp2.2\webjenkins.csproj.CoreCompileInputs.cache
 E:\学习资料\JenkinsTest\webjenkins\webjenkins\obj\Debug\netcoreapp2.2\webjenkins.RazorAssemblyInfo.cache
 E:\学习资料\JenkinsTest\webjenkins\webjenkins\obj\Debug\netcoreapp2.2\webjenkins.RazorAssemblyInfo.cs
